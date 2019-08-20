@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Project4, Configuration: Debug Win32 ------
+1>Source.cpp
+1>c:\users\tanusha\source\repos\project4\project4\source.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+1>Project4.vcxproj -> C:\Users\Tanusha\source\repos\Project4\Debug\Project4.exe
+1>Done building project "Project4.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
